@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Flame
+  - circle
+  - Flick
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Note1
+  - Water
+  - UI
+  - post-process
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: circles
+    uniqueID: 1679131457
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
